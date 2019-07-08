@@ -1,6 +1,8 @@
 # kirby-recent-changes
 Shows the recent page updates as a page section in the panel
 
+<img src="screenshot.png" width="700" alt="screenshot.png">
+
 ## Requirements
 You need at least Kirby CMS v3.0.
 This Plugin does not work with Kirby 2.

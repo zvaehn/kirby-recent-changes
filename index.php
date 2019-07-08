@@ -41,6 +41,7 @@ Kirby::plugin('zvaehn/recent-changes', [
           return $index;
         },
         'getThumbUrl' => function($page) {
+          $image = false;
 
           // do we want to have a custom image?
           if($this->image()) {
